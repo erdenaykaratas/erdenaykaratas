@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **erdenay.karatas@icloud.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 background-color="#333" align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/erdenay_karatas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="erdenay_karatas" height="30" width="40" /></a>
 </p>
