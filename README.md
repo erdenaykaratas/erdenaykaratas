@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Erdenay</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erdenaykaratas&label=Profile%20views&color=0e75b6&style=flat" alt="erdenaykaratas" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erdenaykaratas" alt="erdenaykaratas" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/erdenay_karatas" target="blank"><img src="https://img.shields.io/twitter/follow/erdenay_karatas?logo=twitter&style=for-the-badge" alt="erdenay_karatas" /></a> </p>
 
 - 🌱 I’m currently learning **React.js, Node.js**
